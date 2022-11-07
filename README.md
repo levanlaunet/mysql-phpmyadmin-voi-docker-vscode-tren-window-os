@@ -1,2 +1,4 @@
-# mysql-phpmyadmin-voi-docker-vscode-tren-window-os
-MySql, phpMyAdmin với Docker, VScode trên Window OS
+# MySql, phpMyAdmin với Docker, VScode trên Window OS
+
+### Youtube video: https://youtu.be/uN6jPJkB1ko
+### Blog: https://levanlau.net
